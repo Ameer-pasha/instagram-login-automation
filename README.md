@@ -6,6 +6,7 @@ A simple Python script that automates Instagram login using Selenium WebDriver.
 
 **This project is for educational purposes only.** Automating Instagram may violate their Terms of Service and could result in account restrictions. Use at your own risk and only on accounts you own.
 
+
 ## Prerequisites
 
 - Python 3.6+
